@@ -48,3 +48,8 @@ logs/
 
 # 本地 Claude 人设（仅本地使用，不提交）
 CLAUDE.md
+
+# 月度提交月报：含手机号的本地私有文件，不提交
+scripts/monthly-report/members.local.json
+scripts/monthly-report/members.secret.txt
+scripts/monthly-report/config.local.json

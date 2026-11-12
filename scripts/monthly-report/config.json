@@ -1,0 +1,19 @@
+{
+  "repo_url": "https://github.com/yuanjingea/paper-cards.git",
+  "repo_display_name": "paper-cards",
+  "timezone_offset_hours": 8,
+  "also_report_submitters": true,
+  "msgtype": "text",
+  "show_cumulative_papers": true,
+  "paper_commit_pattern": "add\\s+paper\\s*card",
+  "title_prefix": "",
+  "ignore_patterns": [
+    "\\[bot\\]@",
+    "noreply@github\\.com$",
+    "dependabot",
+    "renovate",
+    "actions-user"
+  ],
+  "members_env": "MEMBERS_JSON",
+  "members": []
+}
