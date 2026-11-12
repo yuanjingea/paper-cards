@@ -161,7 +161,7 @@
 | 论文 | 会议/年份 | 原文 | 深度阅读 | 翻译 | 代码 |
 |------|----------|------|---------|------|------|
 | [SimVLA: Zero-Shot Sim-to-Real VLA Learning for Mobile Manipulation](cards/11-sim-to-real/simvla/) | arXiv 2026 | [📄 原文](https://arxiv.org/abs/2610.11248) | [📝 深度阅读](cards/11-sim-to-real/simvla/reading-notes.md) | [🌐 翻译](cards/11-sim-to-real/simvla/translation.md) | [💻 代码](https://github.com/kyounginbaik/SimVLA) |
-| _待补充_ | - | - | - | - | - |
+| [Zero-Shot VLA Adaptation with Retrieved Guidance](cards/11-sim-to-real/vla-adaptation/zero-shot-vla-adaptation-with-retrieved-guidance/) | arXiv 预印本 2026 | [📄 原文](https://arxiv.org/abs/2611.10894) | [📝 深度阅读](cards/11-sim-to-real/vla-adaptation/zero-shot-vla-adaptation-with-retrieved-guidance/reading-notes.md) | [🌐 翻译](cards/11-sim-to-real/vla-adaptation/zero-shot-vla-adaptation-with-retrieved-guidance/translation.md) | - |
 | _待补充_ | - | - | - | - | - |
 
 ---
@@ -197,7 +197,7 @@
 | 论文 | 会议/年份 | 原文 | 深度阅读 | 翻译 | 代码 |
 |------|----------|------|---------|------|------|
 | [RoboStriker](cards/14-rl-adaptive-control/robostriker/) | arXiv 2026 | [📄 原文](https://arxiv.org/abs/2608.16195) | [📝 深度阅读](cards/14-rl-adaptive-control/robostriker/reading-notes.md) | [🌐 翻译](cards/14-rl-adaptive-control/robostriker/translation.md) | - |
-| _待补充_ | - | - | - | - | - |
+| [ODE Policy: Robot Learning via Action Dynamics, Not Actions](cards/14-rl-adaptive-control/action-dynamics/ode-policy-robot-learning-via-action-dynamics-not-actions/) | arXiv 预印本 2026 | [📄 原文](https://arxiv.org/abs/2611.01729) | [📝 深度阅读](cards/14-rl-adaptive-control/action-dynamics/ode-policy-robot-learning-via-action-dynamics-not-actions/reading-notes.md) | [🌐 翻译](cards/14-rl-adaptive-control/action-dynamics/ode-policy-robot-learning-via-action-dynamics-not-actions/translation.md) | - |
 | _待补充_ | - | - | - | - | - |
 
 ---
