@@ -6,7 +6,7 @@
 
 | 论文 | 会议/年份 | 原文 | 深度阅读 | 翻译 | 代码 |
 |------|----------|------|---------|------|------|
-| _待补充_ | - | - | - | - | - |
+| [SimVLA: Zero-Shot Sim-to-Real VLA Learning for Mobile Manipulation](simvla/) | arXiv 2026 | [📄 原文](https://arxiv.org/abs/2610.11248) | [📝 深度阅读](simvla/reading-notes.md) | [🌐 翻译](simvla/translation.md) | [💻 代码](https://github.com/kyounginbaik/SimVLA) |
 | _待补充_ | - | - | - | - | - |
 | _待补充_ | - | - | - | - | - |
 
