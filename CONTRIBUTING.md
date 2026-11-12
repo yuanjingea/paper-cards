@@ -115,7 +115,7 @@ git commit -m 'docs: 补充 GPT-3 卡片延伸阅读'
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/yuanjing-robot/paper-cards.git
+git clone https://github.com/yuanjingea/paper-cards.git
 cd paper-cards
 
 # 2. 拉取最新代码
