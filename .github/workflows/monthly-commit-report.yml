@@ -1,0 +1,54 @@
+name: 月度提交月报
+
+on:
+  schedule:
+    # 每月 1 号 UTC 01:00 = 北京时间 09:00（cron 用 UTC，注意换算）
+    - cron: "0 1 1 * *"
+  workflow_dispatch:
+    inputs:
+      month:
+        description: "补跑指定月份，格式 YYYY-MM，留空则统计上个月"
+        required: false
+      dry_run:
+        description: "只统计数据、不发群消息（首次验证务必勾上）"
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库（需要全部分支的完整历史）
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 准备 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 统计并推送到钉钉
+        env:
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          MEMBERS_JSON: ${{ secrets.MEMBERS_JSON }}
+          GH_TOKEN: ${{ secrets.REPO_READ_TOKEN }}
+          MONTH: ${{ inputs.month }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          set -e
+          DIR=scripts/monthly-report
+          ARGS=""
+          if [ -n "$MONTH" ]; then
+            ARGS="$ARGS --month $MONTH"
+          fi
+          if [ "$DRY_RUN" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+            echo "::: 已勾选 dry_run，本次只打印内容，不会发到钉钉"
+          fi
+          python3 "$DIR/report.py" --config "$DIR/config.json" $ARGS
