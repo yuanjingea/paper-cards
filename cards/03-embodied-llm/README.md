@@ -8,7 +8,7 @@
 |------|----------|------|---------|------|------|
 | [RT-2](rt-2/) | CoRL 2023 | [📄 原文](https://arxiv.org/abs/2307.15818) | [📝 深度阅读](rt-2/reading-notes.md) | [🌐 翻译](rt-2/translation.md) | - |
 | [OpenVLA](openvla/) | CoRL 2024 | [📄 原文](https://arxiv.org/abs/2406.09246) | [📝 深度阅读](openvla/reading-notes.md) | [🌐 翻译](openvla/translation.md) | [💻 代码](https://github.com/openvla/openvla) |
-| _待补充_ | - | - | - | - | - |
+| [EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming](egox-egocentric-cross-embodiment-manipulation-with-embodiment-dreaming/) | arXiv 预印本 2026 | [📄 原文](https://arxiv.org/abs/2611.16728) | [📝 深度阅读](egox-egocentric-cross-embodiment-manipulation-with-embodiment-dreaming/reading-notes.md) | [🌐 翻译](egox-egocentric-cross-embodiment-manipulation-with-embodiment-dreaming/translation.md) | - |
 
 ---
 
