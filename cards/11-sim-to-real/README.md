@@ -7,7 +7,7 @@
 | 论文 | 会议/年份 | 原文 | 深度阅读 | 翻译 | 代码 |
 |------|----------|------|---------|------|------|
 | [SimVLA: Zero-Shot Sim-to-Real VLA Learning for Mobile Manipulation](simvla/) | arXiv 2026 | [📄 原文](https://arxiv.org/abs/2610.11248) | [📝 深度阅读](simvla/reading-notes.md) | [🌐 翻译](simvla/translation.md) | [💻 代码](https://github.com/kyounginbaik/SimVLA) |
-| _待补充_ | - | - | - | - | - |
+| [Training Reasoning Models in Simulation to Natively Use Real Robots](training-reasoning-models-in-simulation-to-natively-use-real-robots/) | arXiv 预印本 2026 | [📄 原文](https://arxiv.org/abs/2611.18562) | [📝 深度阅读](training-reasoning-models-in-simulation-to-natively-use-real-robots/reading-notes.md) | [🌐 翻译](training-reasoning-models-in-simulation-to-natively-use-real-robots/translation.md) | [💻 代码](https://github.com/mit-han-lab/pear) |
 | _待补充_ | - | - | - | - | - |
 
 ---

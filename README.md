@@ -66,7 +66,7 @@
 |------|----------|------|---------|------|------|
 | [RT-2](cards/03-embodied-llm/rt-2/) | CoRL 2023 | [📄 原文](https://arxiv.org/abs/2307.15818) | [📝 深度阅读](cards/03-embodied-llm/rt-2/reading-notes.md) | [🌐 翻译](cards/03-embodied-llm/rt-2/translation.md) | - |
 | [OpenVLA](cards/03-embodied-llm/openvla/) | CoRL 2024 | [📄 原文](https://arxiv.org/abs/2406.09246) | [📝 深度阅读](cards/03-embodied-llm/openvla/reading-notes.md) | [🌐 翻译](cards/03-embodied-llm/openvla/translation.md) | [💻 代码](https://github.com/openvla/openvla) |
-| _待补充_ | - | - | - | - | - |
+| [EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming](cards/03-embodied-llm/egox-egocentric-cross-embodiment-manipulation-with-embodiment-dreaming/) | arXiv 预印本 2026 | [📄 原文](https://arxiv.org/abs/2611.16728) | [📝 深度阅读](cards/03-embodied-llm/egox-egocentric-cross-embodiment-manipulation-with-embodiment-dreaming/reading-notes.md) | [🌐 翻译](cards/03-embodied-llm/egox-egocentric-cross-embodiment-manipulation-with-embodiment-dreaming/translation.md) | - |
 
 ---
 
@@ -162,7 +162,7 @@
 |------|----------|------|---------|------|------|
 | [SimVLA: Zero-Shot Sim-to-Real VLA Learning for Mobile Manipulation](cards/11-sim-to-real/simvla/) | arXiv 2026 | [📄 原文](https://arxiv.org/abs/2610.11248) | [📝 深度阅读](cards/11-sim-to-real/simvla/reading-notes.md) | [🌐 翻译](cards/11-sim-to-real/simvla/translation.md) | [💻 代码](https://github.com/kyounginbaik/SimVLA) |
 | [Zero-Shot VLA Adaptation with Retrieved Guidance](cards/11-sim-to-real/vla-adaptation/zero-shot-vla-adaptation-with-retrieved-guidance/) | arXiv 预印本 2026 | [📄 原文](https://arxiv.org/abs/2611.10894) | [📝 深度阅读](cards/11-sim-to-real/vla-adaptation/zero-shot-vla-adaptation-with-retrieved-guidance/reading-notes.md) | [🌐 翻译](cards/11-sim-to-real/vla-adaptation/zero-shot-vla-adaptation-with-retrieved-guidance/translation.md) | - |
-| _待补充_ | - | - | - | - | - |
+| [Training Reasoning Models in Simulation to Natively Use Real Robots](cards/11-sim-to-real/training-reasoning-models-in-simulation-to-natively-use-real-robots/) | arXiv 预印本 2026 | [📄 原文](https://arxiv.org/abs/2611.18562) | [📝 深度阅读](cards/11-sim-to-real/training-reasoning-models-in-simulation-to-natively-use-real-robots/reading-notes.md) | [🌐 翻译](cards/11-sim-to-real/training-reasoning-models-in-simulation-to-natively-use-real-robots/translation.md) | [💻 代码](https://github.com/mit-han-lab/pear) |
 
 ---
 
