@@ -89,7 +89,7 @@
 | 论文 | 会议/年份 | 原文 | 深度阅读 | 翻译 | 代码 |
 |------|----------|------|---------|------|------|
 | [Learning to Grasp the Ungraspable with Emergent Extrinsic Dexterity](cards/05-manipulation/learning-to-grasp-the-ungraspable/) | CoRL 2022 | [📄 原文](https://arxiv.org/abs/2211.01500) | [📝 深度阅读](cards/05-manipulation/learning-to-grasp-the-ungraspable/reading-notes.md) | [🌐 翻译](cards/05-manipulation/learning-to-grasp-the-ungraspable/translation.md) | [💻 代码](https://github.com/rail-berkeley/rlkit) |
-| _待补充_ | - | - | - | - | - |
+| [Force2Act: A Force-Aware Visuomotor Policy for Generalizable Compliant Robot Manipulation](cards/05-manipulation/force2act-a-force-aware-visuomotor-policy-for-generalizable-compliant-robot-manipulation/) | arXiv 预印本 2026 | [📄 原文](https://arxiv.org/abs/2611.29208) | [📝 深度阅读](cards/05-manipulation/force2act-a-force-aware-visuomotor-policy-for-generalizable-compliant-robot-manipulation/reading-notes.md) | [🌐 翻译](cards/05-manipulation/force2act-a-force-aware-visuomotor-policy-for-generalizable-compliant-robot-manipulation/translation.md) | [💻 代码](https://github.com/MAGICLAB-NUS/Force2Act) |
 | _待补充_ | - | - | - | - | - |
 
 ---
@@ -101,7 +101,7 @@
 | 论文 | 会议/年份 | 原文 | 深度阅读 | 翻译 | 代码 |
 |------|----------|------|---------|------|------|
 | [ScaleNav](./scale-nav/README.md) | arXiv 2026 | [论文原文](https://arxiv.org/abs/2610.25690) | [阅读笔记](./scale-nav/reading-notes.md) | [中文翻译](./scale-nav/translation.md) | [代码](https://github.com/MachEmbodied/ScaleNav) |
-| _待补充_ | - | - | - | - | - |
+| [ROAM: Bridging Vision-Language Reasoning and Learned Control for Legged Navigation in the Wild](cards/06-navigation/roam-bridging-vision-language-reasoning-and-learned-control-for-legged-navigation-in-the-wild/) | arXiv 预印本 2026 | [📄 原文](https://arxiv.org/abs/2611.25215) | [📝 深度阅读](cards/06-navigation/roam-bridging-vision-language-reasoning-and-learned-control-for-legged-navigation-in-the-wild/reading-notes.md) | [🌐 翻译](cards/06-navigation/roam-bridging-vision-language-reasoning-and-learned-control-for-legged-navigation-in-the-wild/translation.md) | [💻 代码](https://github.com/leggedrobotics/roam) |
 | _待补充_ | - | - | - | - | - |
 
 ---
