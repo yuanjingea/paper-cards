@@ -7,7 +7,7 @@
 | 论文 | 会议/年份 | 原文 | 深度阅读 | 翻译 | 代码 |
 |------|----------|------|---------|------|------|
 | [Learning to Grasp the Ungraspable with Emergent Extrinsic Dexterity](learning-to-grasp-the-ungraspable/) | CoRL 2022 | [📄 原文](https://arxiv.org/abs/2211.01500) | [📝 深度阅读](learning-to-grasp-the-ungraspable/reading-notes.md) | [🌐 翻译](learning-to-grasp-the-ungraspable/translation.md) | [💻 代码](https://github.com/rail-berkeley/rlkit) |
-| _待补充_ | - | - | - | - | - |
+| [Force2Act: A Force-Aware Visuomotor Policy for Generalizable Compliant Robot Manipulation](force2act-a-force-aware-visuomotor-policy-for-generalizable-compliant-robot-manipulation/) | arXiv 预印本 2026 | [📄 原文](https://arxiv.org/abs/2611.29208) | [📝 深度阅读](force2act-a-force-aware-visuomotor-policy-for-generalizable-compliant-robot-manipulation/reading-notes.md) | [🌐 翻译](force2act-a-force-aware-visuomotor-policy-for-generalizable-compliant-robot-manipulation/translation.md) | [💻 代码](https://github.com/MAGICLAB-NUS/Force2Act) |
 | _待补充_ | - | - | - | - | - |
 
 ---
